@@ -26,6 +26,6 @@ After updating your notes:
 ## Fixing Common Issues
 ### How to Exit Git Commit Message Editor (Vim)
 You're stuck inside Git's Vim editor after running git commit without -m. Follow these steps to exit properly.
- 1. Press Esc → This exits INSERT mode
- 2. Type :wq (write & quit) and press Enter
+ 1. Press `Esc` → This exits INSERT mode
+ 2. Type `:wq` (write & quit) and press Enter
 ✅ This will save the commit message and exit Vim
