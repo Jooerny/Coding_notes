@@ -23,7 +23,7 @@ After updating your notes:
 
 ✅ Now your coding notes are always updated!
 
-# How to Fix Common Issues
+# Fixing Common Issues
 ## How to Exit Git Commit Message Editor (Vim)
 You're stuck inside Git's Vim editor after running git commit without -m. Follow these steps to exit properly.
  1. Press Esc → This exits INSERT mode
