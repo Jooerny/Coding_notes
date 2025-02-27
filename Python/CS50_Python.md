@@ -24,4 +24,4 @@ To define patterns and validate data, extract data. So users typed something in 
 
 ## Object-Oriented Programming (OOP)
 
-# Et Cetera
+## Et Cetera
