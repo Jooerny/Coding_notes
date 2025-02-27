@@ -1,5 +1,5 @@
 ## How to Convert Markdown to a Python Script?
-Method 1️⃣: Manually Copy Code
+Method 1️⃣: Manually Copy Code  
 📌 Steps:
 1. Open Python_Notes.md
 2. Copy the code snippets
